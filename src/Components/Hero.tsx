@@ -33,7 +33,7 @@ const Hero = () => {
       }, []);
     
     return (
-        <header className="bg-cover bg-center h-screen text-white relative bg-[url('./neom-seX13AzLqls-unsplash.jpg')]">
+        <header className="bg-cover bg-center h-screen text-white relative bg-[url('https://res.cloudinary.com/dxriwp8sx/image/upload/v1723527227/neom-seX13AzLqls-unsplash_bsu2ic.jpg')]">
 
             <Particles
                 className="absolute inset-0"
