@@ -28,7 +28,8 @@
     "react-router-dom": "^6.26.0",
     "redux": "^5.0.1",
     "tailwind-merge": "^2.4.0",
-    "tw-elements-react": "^1.0.0-alpha-end"
+    "tw-elements-react": "^1.0.0-alpha-end",
+    "vercel": "^37.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
